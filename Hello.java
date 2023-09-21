@@ -1,6 +1,5 @@
 class Hello{
-  public static void main(arg[]){
-    system.out.println("Hello")
+  public static void main(String arg[]){
+    System.out.println("Hello");
   }
 }
-
