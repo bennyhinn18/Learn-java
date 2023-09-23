@@ -6,7 +6,7 @@ class Input
     {
       String a;
       a=s.next();
-      System.out.print("Entered string is " +a)
+      System.out.print("Entered string is " +a);
         
     }
   }
