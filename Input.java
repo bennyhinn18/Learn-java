@@ -1,12 +1,14 @@
-import java.util.Scanner
-class Input
+import java.util.Scanner;
+class Main
   {
-    Scanner S=new Scanner(System.in);
+    
     public static void main(String arg[])
     {
+      Scanner S=new Scanner(System.in);
       String a;
-      a=s.next();
+      a=S.next();
       System.out.print("Entered string is " +a);
         
     }
-  }
+ 
+}
