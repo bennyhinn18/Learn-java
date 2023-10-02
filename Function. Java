@@ -10,6 +10,6 @@ public class RandomNumberGenerator {
     public static int generateRandomNumber() {
         Random random = new Random();
         return random.nextInt(10) + 1; // Generates a random number between 1 and 10
-    }
+}
 }
 
