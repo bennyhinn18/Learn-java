@@ -6,9 +6,9 @@ class Main
     {
       Scanner S=new Scanner(System.in);
       String a;
-      System.out.println("Enter your Text")
+      System.out.println("Enter your Text");
       a=S.next();
-      System.out.print("Entered string is " +a);
+      System.out.println("Entered string is " +a);
    }
  
 }
