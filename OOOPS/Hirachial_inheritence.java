@@ -20,6 +20,6 @@ public class Hirachial_inheritence {
         C obj3 = new C();
         obj1.show();
         obj2.show();
-        obj3.show();
+        
     }
 }
